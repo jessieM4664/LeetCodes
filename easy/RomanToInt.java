@@ -1,5 +1,5 @@
 import java.util.*;
-class romanToInt {  // LeetCode - EASY : "Roman to Int"
+class RomanToInt {  // LeetCode - EASY : "Roman to Int"
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         
